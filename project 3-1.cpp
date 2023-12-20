@@ -56,6 +56,7 @@ void write()
     //obj.open("mmm.txt",ios::app);
     //clrscr();
 
+    //Author:Raju
     st.getdata();
 
     //mainmenu();
